@@ -30,20 +30,3 @@ Max-Parallelism-Task-System/
 ├── maxpar.py        # Moteur principal (Classes Task et TaskSystem)
 ├── test_maxpar.py   # Script de test avec un jeu de 7 tâches (T1 à T5, TSomme, TProduit)
 └── README.md        # Présentation et documentation du projet
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Max-Parallelism-Task-System/
-├── maxpar.py        # Moteur principal (Classes Task et TaskSystem)
-├── test_maxpar
